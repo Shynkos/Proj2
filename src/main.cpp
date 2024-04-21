@@ -10,7 +10,7 @@ using namespace std;
 
 #define ArraySize 100000
 #define ArrayDepth 3
-#define RandomSize 100
+#define RandomSize 1000
 
 // misc funcs
 void display(vector<int> vec, int size);
